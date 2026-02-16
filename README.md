@@ -1,9 +1,9 @@
-TB Country Analysis – Global Tuberculosis Data Study :
+**TB Country Analysis – Global Tuberculosis Data Study :**
 
 This project analyzes country-level Tuberculosis (TB) data to identify global patterns, high-burden regions, and key health indicators influencing TB prevalence and outcomes.
 The objective is not just to visualize numbers — but to interpret trends, compare countries meaningfully, and extract insights that matter for public health understanding.
 
-Repository Structure :
+**Repository Structure :**
 
 ├── TB Country Analysis.xlsx
 │ ├── Raw Data - Country-level TB dataset
@@ -11,7 +11,7 @@ Repository Structure :
 │ └── Dashboard - Visual insights and summaries
 ├── README.md
 
-Dataset Overview
+**Dataset Overview**
 
 - Scope: Multi-country TB statistics  
 - Level: Country-wise aggregated data  
@@ -19,7 +19,7 @@ Dataset Overview
 - Domain: Public Health / Epidemiology  
 
 
-Key Variables (Typical Structure)
+**Key Variables (Typical Structure)**
 
 The dataset includes indicators such as:
 
@@ -33,7 +33,7 @@ The dataset includes indicators such as:
 
 These variables allow comparative and trend-based analysis across nations.
 
-Project Objectives
+**Project Objectives**
 
 This analysis focuses on:
 
@@ -45,7 +45,7 @@ This analysis focuses on:
 
 The goal is to move beyond raw numbers and uncover relationships between healthcare effectiveness and disease prevalence.
 
-Pivot Analysis
+**Pivot Analysis**
 
 The Pivot Analysis sheet provides:
 
@@ -56,7 +56,7 @@ The Pivot Analysis sheet provides:
 
 This layer transforms raw data into structured comparisons.
 
- Dashboard
+** Dashboard**
 
 The Dashboard sheet visually presents:
 
@@ -67,7 +67,7 @@ The Dashboard sheet visually presents:
 
 The dashboard is designed for clarity and quick decision-level insight rather than decorative visualization.
 
-Tools & Techniques Used
+**Tools & Techniques Used**
 
 - Excel Data Cleaning  
 - Pivot Tables  
